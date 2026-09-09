@@ -1,8 +1,8 @@
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
-<!--                    PROFILE HEADER                     -->
+<!--                     PROFILE HEADER                        -->
 
-<!-- ===================================================== -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Prabanjan+Sivabalan+%F0%9F%91%8B;Software+Developer;Full-Stack+Engineer;React.js+%7C+Angular+%7C+Node.js;Java+%7C+Python+%7C+SQL;Building+Scalable+Web+Applications;Welcome+to+my+GitHub+%F0%9F%9A%80" />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge" />
 </p>
 
 ---
@@ -24,93 +24,99 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Development;Responsive+User+Interface+Development;RESTful+API+Integration;Relational+%26+NoSQL+Databases;Agile+%2F+Scrum+Development;Continuous+Learning+%26+Improvement" />
 </p>
 
-I am a **Computer and Communication Engineering student** and aspiring **Software Developer / Full-Stack Engineer** with hands-on experience in developing web applications using modern frontend, backend and database technologies.
+I am a **Computer and Communication Engineering student** and aspiring **Software Developer / Full-Stack Engineer** with hands-on experience in frontend, backend and database development.
 
-My technical focus includes **React.js, Angular, Node.js, Java, Python, SQL, MySQL and MongoDB**, along with RESTful API integration, responsive UI development and software engineering practices.
+My technical focus includes **JavaScript, React.js, Angular, Node.js, Java, Python, SQL, MySQL and MongoDB**, together with RESTful API development, responsive web design and software engineering practices.
 
-I enjoy solving problems, learning new technologies and developing practical, user-focused software solutions.
+I enjoy solving technical problems, learning modern technologies and developing practical, user-focused software solutions.
 
 ---
 
-# 🧰 Technical Skills
+# 🛠️ Technical Skills
 
 ## 💻 Programming Languages
 
-| Technology        | Level           |
-| ----------------- | --------------- |
-| JavaScript (ES6+) | 🟢 Intermediate |
-| Java              | 🟢 Intermediate |
-| Python            | 🟢 Intermediate |
-| SQL               | 🟢 Intermediate |
+```text
+JavaScript (ES6+)       █████████░  85%
+Java                    ████████░░  75%
+Python                  ████████░░  75%
+SQL                     █████████░  85%
+```
 
 ---
 
 ## 🎨 Frontend Development
 
-| Technology                   | Level           |
-| ---------------------------- | --------------- |
-| React.js                     | 🟢 Intermediate |
-| Angular                      | 🟢 Intermediate |
-| HTML5                        | 🟢 Intermediate |
-| CSS3                         | 🟢 Intermediate |
-| Responsive Web Design        | 🟢 Intermediate |
-| Component-Based Architecture | 🟢 Intermediate |
-| Two-Way Data Binding         | 🟢 Intermediate |
+```text
+HTML5                   █████████░  90%
+CSS3                    █████████░  85%
+React.js                █████████░  85%
+Angular                 █████████░  85%
+Responsive Web Design   █████████░  85%
+Component Architecture  ████████░░  80%
+Two-Way Data Binding    ████████░░  80%
+```
 
 ---
 
 ## ⚙️ Backend Development
 
-| Technology           | Level           |
-| -------------------- | --------------- |
-| Node.js              | 🟢 Intermediate |
-| RESTful API Design   | 🟢 Intermediate |
-| REST API Integration | 🟢 Intermediate |
-| Spring Boot          | 🔵 Foundational |
+```text
+Node.js                 █████████░  85%
+RESTful API Design      █████████░  85%
+REST API Integration    █████████░  85%
+Spring Boot             ████░░░░░░  40%
+```
 
 ---
 
-## 🗄️ Database Technologies
+## 🗄️ Database Development
 
-| Technology                 | Level           |
-| -------------------------- | --------------- |
-| MySQL                      | 🟢 Intermediate |
-| MongoDB                    | 🟢 Intermediate |
-| Relational Database Design | 🟢 Intermediate |
-| Database Optimization      | 🟢 Intermediate |
-
----
-
-## 🔧 Tools & Engineering Practices
-
-| Skill                        | Level           |
-| ---------------------------- | --------------- |
-| Git                          | 🟢 Intermediate |
-| GitHub                       | 🟢 Intermediate |
-| Postman                      | 🟢 Intermediate |
-| Agile / Scrum                | 🟢 Intermediate |
-| SDLC                         | 🟢 Intermediate |
-| Object-Oriented Programming  | 🟢 Intermediate |
-| Data Structures & Algorithms | 🟡 Developing   |
-| Web Accessibility (a11y)     | 🟡 Developing   |
+```text
+MySQL                   █████████░  90%
+Relational DB Design    █████████░  90%
+MongoDB                 ████████░░  75%
+Query Optimization      ████████░░  75%
+```
 
 ---
 
-# 📊 Skill Development
+## 🔧 Tools & Software Engineering
+
+```text
+Git                     ████████░░  80%
+GitHub                  ████████░░  80%
+Postman                 ███████░░░  70%
+Agile / Scrum            ████████░░  75%
+SDLC                    ███████░░░  70%
+OOP                     ███████░░░  70%
+DSA                     ██████░░░░  60%
+Accessibility (a11y)    ██████░░░░  60%
+```
+
+---
+
+## 📊 Overall Technical Focus
+
+```text
+Frontend Development    █████████░  85%
+Database Development    █████████░  85%
+Backend Development     ████████░░  80%
+Programming             ████████░░  80%
+Software Engineering    ███████░░░  70%
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Development+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1;Backend+Development+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1;Database+Development+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1;Programming+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1;Software+Engineering+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1" />
+  <i>Skill levels represent my current practical development stage and continuous learning progress.</i>
 </p>
-
-> **Note:** Skill levels represent my current practical exposure and are intended as a development snapshot rather than formal proficiency ratings.
 
 ---
 
 # 💼 Professional Experience
 
-## 🔹 Full Stack Development Virtual Intern
+## 🔹 Infosys Springboard
 
-### Infosys Springboard
+### Full Stack Development Virtual Intern
 
 **June 2024 – July 2024**
 
@@ -121,13 +127,13 @@ I enjoy solving problems, learning new technologies and developing practical, us
 * Developed **3+ Angular frontend modules** using component-based architecture and two-way data binding.
 * Integrated RESTful APIs for dynamic data rendering.
 * Applied Java and Python for backend logic.
-* Contributed to full-stack feature development through Agile/Scrum workflows.
+* Worked through Agile/Scrum development cycles.
 
 ---
 
-## 🔹 Database Management Intern
+## 🔹 Ecrred
 
-### Ecrred
+### Database Management Intern
 
 **June 2024 – July 2024**
 
@@ -144,7 +150,7 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 # 🎓 Education
 
-### 🏫 V.S.B Engineering College, Karur
+## 🏫 V.S.B Engineering College, Karur
 
 **B.E. — Computer and Communication Engineering**
 
@@ -154,13 +160,13 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 ---
 
-### 🏫 Kamarajar Higher Secondary School, Namakkal
+## 🏫 Kamarajar Higher Secondary School, Namakkal
 
 **Higher Secondary Certificate — Class XII**
 
 `2022 – 2023`
 
-**Percentage: 64%**
+**Percentage: 65%**
 
 ---
 
@@ -170,14 +176,14 @@ I enjoy solving problems, learning new technologies and developing practical, us
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Continuous+Learning+%F0%9F%93%9A;Technical+Skill+Development;Exploring+Modern+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 </p>
 
-### Technical Certifications
+### 💻 Technical
 
 * 🏅 **Infosys Springboard** — Python
 * 🏅 **Infosys Springboard** — Java
 * 🏅 **Infosys Springboard** — Angular
 * 🏅 **Infosys Springboard** — React.js
 
-### Additional Certifications
+### 📊 Additional
 
 * 🏅 **Deloitte Australia Forage** — Data Analytics
 * 🏅 **Anthropic** — Claude 101
@@ -185,11 +191,25 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 ---
 
-# 🌱 Currently Developing
+# 🌱 Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=900&center=true&vCenter=true&width=750&lines=Advancing+Full-Stack+Development;Strengthening+DSA+%26+Problem+Solving;Improving+Backend+Engineering;Learning+Spring+Boot;Building+Better+Software+Solutions;Exploring+Modern+Development+Practices" />
 </p>
+
+```text
+Full-Stack Development
+        ↓
+Frontend Engineering
+        ↓
+Backend Engineering
+        ↓
+Database Development
+        ↓
+Software Engineering
+        ↓
+Continuous Improvement
+```
 
 ---
 
@@ -198,11 +218,17 @@ I enjoy solving problems, learning new technologies and developing practical, us
 <p align="center">
 
 💻 **Software Development**
+
 🌐 **Full-Stack Development**
+
 ⚛️ **Frontend Engineering**
+
 ⚙️ **Backend Development**
+
 🗄️ **Database Management**
+
 🔌 **REST API Integration**
+
 🧩 **Problem Solving**
 
 </p>
@@ -211,13 +237,13 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 # 🤝 Professional Skills
 
-| Skill             | Focus                               |
-| ----------------- | ----------------------------------- |
-| Teamwork          | 🤝 Collaborative Development        |
-| Problem Solving   | 🧩 Technical Problem Solving        |
-| Communication     | 💬 Clear Technical Communication    |
-| Critical Thinking | 🧠 Analytical Thinking              |
-| Adaptability      | 🔄 Learning & Technology Adaptation |
+```text
+Teamwork                ████████░░  80%
+Problem Solving         ████████░░  80%
+Communication           ███████░░░  70%
+Critical Thinking       ███████░░░  70%
+Adaptability            ████████░░  80%
+```
 
 ---
 
@@ -229,15 +255,23 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 ---
 
-# 📈 GitHub Overview
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
+---
+
+# 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+# 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
@@ -245,7 +279,7 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 ---
 
-# 🔗 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -263,8 +297,12 @@ I enjoy solving problems, learning new technologies and developing practical, us
 
 </p>
 
+📧 **Email:** [prabanjansivabalan@gmail.com](mailto:prabanjansivabalan@gmail.com)
+
+📍 **Tamil Nadu, India**
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+Build+Something+Amazing+%F0%9F%9A%80;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat" />
 </p>
