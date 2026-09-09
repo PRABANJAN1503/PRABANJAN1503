@@ -1,5 +1,6 @@
 <!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
+<!--                  PRABANJAN SIVABALAN                     -->
+<!--             GitHub Profile README                         -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -20,22 +21,47 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabanjan-sivabalan-a9a516308/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Prabanjan%20Sivabalan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:prabanjansivabalan@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/PRABANJAN1503">
+    <img
+      src="https://img.shields.io/badge/GitHub-PRABANJAN1503-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
 ---
 
-# 👨‍💻 Professional Profile
+# 👨‍💻 Professional Summary
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Development;Responsive+User+Interface+Development;RESTful+API+Integration;Relational+%26+NoSQL+Databases;Agile+%2F+Scrum+Development;Continuous+Learning+%26+Improvement"
-    alt="Professional Profile"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Development;Responsive+Web+Application+Development;RESTful+API+Integration;Relational+%26+NoSQL+Databases;Role-Based+Access+Control;Agile+%2F+Scrum+Development"
+    alt="Professional Summary"
   />
 </p>
 
-I am a **Computer and Communication Engineering student** and aspiring **Software Developer / Full-Stack Engineer** with hands-on experience in frontend, backend, and database development.
+Full-Stack Software Developer with hands-on experience building scalable web applications using **React.js, Angular, Node.js, and RESTful APIs**.
 
-My technical focus includes **JavaScript, React.js, Angular, Node.js, Java, Python, SQL, MySQL, and MongoDB**, together with RESTful API development, responsive web design, and software engineering practices.
+Proficient in designing **relational and NoSQL databases** using **MySQL and MongoDB**, implementing role-based access control, and developing responsive and accessible user interfaces.
 
-I enjoy solving technical problems, learning modern technologies, and developing practical, user-focused software solutions.
+Experienced with **Agile/Scrum workflows**, software development practices, backend integration, database development, and cross-functional collaboration.
+
+Currently pursuing a **B.E. in Computer and Communication Engineering** and seeking opportunities to grow as a **Software Developer / Full-Stack Engineer** while building impactful, user-centric software solutions.
 
 ---
 
@@ -43,82 +69,99 @@ I enjoy solving technical problems, learning modern technologies, and developing
 
 ## 💻 Programming Languages
 
-<pre>
-JavaScript (ES6+)       █████████░  85%
-Java                    ████████░░  75%
-Python                  ████████░░  75%
-SQL                     █████████░  85%
-</pre>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6%2B)-Strong-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-Strong-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Strong-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Strong-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
 ## 🎨 Frontend Development
 
-<pre>
-HTML5                   █████████░  90%
-CSS3                    █████████░  85%
-React.js                █████████░  85%
-Angular                 █████████░  85%
-Responsive Web Design   █████████░  85%
-Component Architecture  ████████░░  80%
-Two-Way Data Binding    ████████░░  80%
-</pre>
+<p>
+  <img src="https://img.shields.io/badge/React.js-Strong-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-Strong-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Strong-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Strong-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+- Responsive Web Design
+- Component-Based Architecture
+- Two-Way Data Binding
+- Responsive UI Development
+- Accessible UI Development
 
 ---
 
 ## ⚙️ Backend Development
 
-<pre>
-Node.js                 █████████░  85%
-RESTful API Design      █████████░  85%
-REST API Integration    █████████░  85%
-Spring Boot             ████░░░░░░  40%
-</pre>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Strong-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Strong-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Basics-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+- RESTful API Design
+- RESTful API Integration
+- Backend Logic
+- API Validation
+- Error Handling
+- Role-Based Access Control
+- JWT-Style Authentication Flows
 
 ---
 
 ## 🗄️ Database Development
 
-<pre>
-MySQL                   █████████░  90%
-Relational DB Design    █████████░  90%
-MongoDB                 ████████░░  75%
-Query Optimization      ████████░░  75%
-</pre>
-
----
-
-## 🔧 Tools & Software Engineering
-
-<pre>
-Git                     ████████░░  80%
-GitHub                  ████████░░  80%
-Postman                 ███████░░░  70%
-Agile / Scrum           ████████░░  75%
-SDLC                    ███████░░░  70%
-OOP                     ███████░░░  70%
-DSA                     ██████░░░░  60%
-Accessibility (a11y)    ██████░░░░  60%
-</pre>
-
----
-
-## 📊 Overall Technical Focus
-
-<pre>
-Frontend Development    █████████░  85%
-Database Development    █████████░  85%
-Backend Development     ████████░░  80%
-Programming             ████████░░  80%
-Software Engineering    ███████░░░  70%
-</pre>
-
-<p align="center">
-  <i>
-    Skill levels represent my current practical development stage
-    and continuous learning progress.
-  </i>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-Strong-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Working%20Knowledge-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+- Relational Database Design
+- Database Schema Design
+- MySQL
+- MongoDB
+- Query Optimization
+- CRUD Operations
+- Data Validation
+- Dashboard Data Retrieval
+
+---
+
+## 🔧 Tools & Engineering Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Git-Working%20Knowledge-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Working%20Knowledge-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-Working%20Knowledge-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+- Agile / Scrum
+- SDLC
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Accessibility (a11y)
+- Cross-Functional Collaboration
+- Problem Solving
+- Critical Thinking
+
+---
+
+# 📊 Skill Development
+
+> Skill levels below are presented as qualitative development levels rather than unsupported numerical percentages.
+
+<pre>
+Frontend Development       █████████░  Strong
+Database Development       █████████░  Strong
+Backend Development        ████████░░  Strong
+Programming                ████████░░  Strong
+Software Engineering       ███████░░░  Developing
+Spring Boot                ████░░░░░░  Basics
+</pre>
 
 ---
 
@@ -128,19 +171,22 @@ Software Engineering    ███████░░░  70%
 
 ### Full Stack Development Virtual Intern
 
-**June 2024 – July 2024**
+**Remote | June 2024 – July 2024**
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=Angular+Frontend+Development;RESTful+API+Integration;Java+%26+Python;Agile+%2F+Scrum;Component-Based+Architecture"
-    alt="Infosys Springboard Skills"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Angular+Frontend+Development;RESTful+API+Integration;Java+%26+Python;Agile+%2F+Scrum;Component-Based+Architecture"
+    alt="Infosys Springboard"
   />
 </p>
 
-- Developed **3+ Angular frontend modules** using component-based architecture and two-way data binding.
-- Integrated RESTful APIs for dynamic data rendering.
-- Applied Java and Python for backend logic.
-- Worked through Agile/Scrum development cycles.
+- Built **3+ Angular frontend modules** using component-based architecture and two-way data binding.
+- Developed clean and intuitive user interfaces within an Agile team environment.
+- Integrated **RESTful APIs** for dynamic data rendering.
+- Connected backend services with responsive frontend views.
+- Applied **Java and Python** for backend logic.
+- Worked through **Agile/Scrum sprints** and multiple development cycles.
+- Supported full-stack feature delivery across frontend and backend components.
 
 ---
 
@@ -148,19 +194,76 @@ Software Engineering    ███████░░░  70%
 
 ### Database Management Intern
 
-**June 2024 – July 2024**
+**Remote | June 2024 – July 2024**
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=MySQL+Database+Design;Query+Optimization;Python+Automation;Dashboard+Data+Retrieval;Process+Efficiency"
-    alt="Ecrred Skills"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=MySQL+Database+Design;Query+Optimization;Python+Automation;Dashboard+Data+Retrieval;Process+Efficiency"
+    alt="Ecrred"
   />
 </p>
 
 - Designed and optimized **5+ relational database schemas** using MySQL.
-- Improved query performance for dashboard data retrieval.
-- Automated recurring data-entry workflows using Python.
+- Improved query performance and supported frontend dashboard data retrieval.
+- Automated recurring data-entry workflows using **Python scripting**.
 - Reduced manual processing time by approximately **30%**.
+- Improved operational efficiency through automation.
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Agri-Store
+
+### Farmer-to-Consumer E-Commerce Platform
+
+**March 2025 – Present**
+
+**Technology:** React.js • Node.js • Java • MySQL • HTML • CSS
+
+- Architected a full-stack e-commerce platform with a responsive **React.js frontend**.
+- Designed the application for compatibility across **mobile, tablet, and desktop** viewports.
+- Implemented role-based access control for **farmer and customer** roles.
+- Implemented secure JWT-style authentication flows.
+- Scoped features and data access according to user roles.
+- Built reusable components for:
+  - Product listings
+  - Shopping cart
+  - Checkout
+  - User profiles
+- Improved UI consistency through reusable component architecture.
+- Reduced code duplication by approximately **40%** through reusable components.
+- Designed a normalized **MySQL database schema** covering:
+  - Products
+  - Orders
+  - Users
+  - Transactions
+- Exposed database functionality through a RESTful **Node.js / Java API backend**.
+- Implemented validation middleware for backend requests.
+
+---
+
+## 🧑‍🏫 Attendance Management System
+
+### Digital Attendance Management Platform
+
+**May 2025 – June 2025**
+
+**Technology:** React.js • Node.js • MongoDB • REST API • HTML • CSS
+
+- Developed a full-stack digital attendance system for **100+ students**.
+- Replaced manual paper-based attendance processes with a real-time web interface.
+- Built a **Node.js + MongoDB REST API** layer.
+- Implemented CRUD endpoints.
+- Added data validation middleware.
+- Implemented backend error handling.
+- Delivered live attendance updates without requiring page refresh.
+- Designed role-based dashboards for:
+  - Faculty
+  - Administrators
+- Faculty dashboard supports attendance marking and editing.
+- Admin dashboard supports analytics and exportable reports.
+- Improved the efficiency of attendance processing through digital workflows.
 
 ---
 
@@ -170,7 +273,7 @@ Software Engineering    ███████░░░  70%
 
 **B.E. — Computer and Communication Engineering**
 
-`2023 – 2027`
+**2023 – 2027**
 
 **CGPA: 7.05 / 10**
 
@@ -180,7 +283,7 @@ Software Engineering    ███████░░░  70%
 
 **Higher Secondary Certificate — Class XII**
 
-`2022 – 2023`
+**2022 – 2023**
 
 **Percentage: 64%**
 
@@ -188,21 +291,14 @@ Software Engineering    ███████░░░  70%
 
 # 🏆 Certifications
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Continuous+Learning+%F0%9F%93%9A;Technical+Skill+Development;Exploring+Modern+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
-    alt="Certifications"
-  />
-</p>
-
-### 💻 Technical
+## 💻 Technical Certifications
 
 - 🏅 **Infosys Springboard** — Python
 - 🏅 **Infosys Springboard** — Java
 - 🏅 **Infosys Springboard** — Angular
 - 🏅 **Infosys Springboard** — React.js
 
-### 📊 Additional
+## 📊 Additional Certifications
 
 - 🏅 **Deloitte Australia Forage** — Data Analytics
 - 🏅 **Anthropic** — Claude 101
@@ -210,32 +306,37 @@ Software Engineering    ███████░░░  70%
 
 ---
 
+# 🧠 Soft Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Teamwork-Strong-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Strong-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-Strong-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-Strong-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-Strong-4CAF50?style=for-the-badge" />
+</p>
+
+---
+
 # 🌱 Currently Learning
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=900&center=true&vCenter=true&width=750&lines=Advancing+Full-Stack+Development;Strengthening+DSA+%26+Problem+Solving;Improving+Backend+Engineering;Learning+Spring+Boot;Building+Better+Software+Solutions;Exploring+Modern+Development+Practices"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2300&pause=900&center=true&vCenter=true&width=780&lines=Advancing+Full-Stack+Development;Strengthening+DSA+%26+Problem+Solving;Improving+Backend+Engineering;Learning+Spring+Boot;Building+Better+Software+Solutions;Exploring+Modern+Development+Practices"
     alt="Currently Learning"
   />
 </p>
 
-<pre>
-Full-Stack Development
-        ↓
-Frontend Engineering
-        ↓
-Backend Engineering
-        ↓
-Database Development
-        ↓
-Software Engineering
-        ↓
-Continuous Improvement
-</pre>
+- Advanced Full-Stack Development
+- Data Structures & Algorithms
+- Backend Engineering
+- Spring Boot
+- Software Engineering Practices
+- Modern Web Application Development
 
 ---
 
-# 🧠 Core Strengths
+# 🧩 Core Strengths
 
 <p align="center">
 
@@ -245,21 +346,10 @@ Continuous Improvement
 ⚙️ **Backend Development**  
 🗄️ **Database Management**  
 🔌 **REST API Integration**  
+🔐 **Role-Based Access Control**  
 🧩 **Problem Solving**
 
 </p>
-
----
-
-# 🤝 Professional Skills
-
-<pre>
-Teamwork                ████████░░  80%
-Problem Solving         ████████░░  80%
-Communication           ███████░░░  70%
-Critical Thinking       ███████░░░  70%
-Adaptability            ████████░░  80%
-</pre>
 
 ---
 
@@ -267,10 +357,18 @@ Adaptability            ████████░░  80%
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Engineer;Frontend+Developer;Backend+Developer;Web+Application+Developer;Software+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&center=true&vCenter=true&width=780&lines=Software+Developer;Full-Stack+Engineer;Frontend+Developer;Backend+Developer;Web+Application+Developer;Software+Engineering"
     alt="Career Focus"
   />
 </p>
+
+**Target Roles:**
+
+- Software Developer
+- Full-Stack Engineer
+- Frontend Developer
+- Backend Developer
+- Web Application Developer
 
 ---
 
@@ -279,7 +377,7 @@ Adaptability            ████████░░  80%
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=PRABANJAN1503&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="PRABANJAN1503 GitHub Stats"
+    alt="PRABANJAN1503 GitHub Statistics"
   />
 </p>
 
@@ -292,7 +390,7 @@ Adaptability            ████████░░  80%
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img
@@ -303,25 +401,48 @@ Adaptability            ████████░░  80%
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=PRABANJAN1503&theme=tokyo-night&hide_border=true&area=true"
-    alt="PRABANJAN1503 Contribution Activity"
+    alt="PRABANJAN1503 GitHub Contribution Activity"
   />
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📅 GitHub Activity
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%A4%9D;Open+to+Learning+%26+Opportunities;Always+Happy+to+Connect!"
-    alt="Let's Connect"
+    src="https://github-contributor-stats.vercel.app/api?username=PRABANJAN1503&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="GitHub Contributor Statistics"
   />
 </p>
+
+---
+
+# 📌 GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/PRABANJAN1503">
+  <img
+    src="https://img.shields.io/badge/GitHub-PRABANJAN1503-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Profile"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Current public GitHub profile:</b> 5 repositories • 0 projects • 0 packages • 0 stars
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -345,21 +466,44 @@ Adaptability            ████████░░  80%
 
 📧 <b>Email:</b> prabanjansivabalan@gmail.com
 
-<br>
+<br><br>
 
 💼 <b>LinkedIn:</b> Prabanjan Sivabalan
 
-<br>
+<br><br>
 
-📍 <b>Location:</b> Tamil Nadu, India
+📍 <b>Location:</b> Namakkal, Tamil Nadu, India
 
 </p>
 
 ---
 
+# 🚀 GitHub Goals
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+great+together!+%F0%9F%A4%9D"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&center=true&vCenter=true&width=800&lines=Build+Production-Ready+Applications;Improve+Open-Source+Contributions;Strengthen+DSA+Skills;Develop+Scalable+Backend+Systems;Build+AI-Powered+Applications;Grow+as+a+Full-Stack+Engineer"
+    alt="GitHub Goals"
+  />
+</p>
+
+- Build and maintain production-quality applications.
+- Improve consistency of GitHub contributions.
+- Strengthen Data Structures & Algorithms.
+- Develop stronger backend engineering skills.
+- Continue learning Spring Boot and modern backend technologies.
+- Build practical AI-powered and full-stack applications.
+- Contribute to meaningful software projects.
+
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+something+great+together!+%F0%9F%A4%9D"
     alt="Thank You"
   />
+</p>
+
+<p align="center">
+  <b>⭐ Learn • Build • Improve • Contribute ⭐</b>
 </p>
