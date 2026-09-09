@@ -285,7 +285,7 @@ Spring Boot                ████░░░░░░  Basics
 
 **2022 – 2023**
 
-**Percentage: 64%**
+**Percentage: 65%**
 
 ---
 
@@ -369,25 +369,6 @@ Spring Boot                ████░░░░░░  Basics
 - Frontend Developer
 - Backend Developer
 - Web Application Developer
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PRABANJAN1503&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="PRABANJAN1503 GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABANJAN1503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="PRABANJAN1503 Most Used Languages"
-  />
-</p>
-
 ---
 
 # 🔥 GitHub Contribution Streak
@@ -401,27 +382,7 @@ Spring Boot                ████░░░░░░  Basics
 
 ---
 
-# 📈 GitHub Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PRABANJAN1503&theme=tokyo-night&hide_border=true&area=true"
-    alt="PRABANJAN1503 GitHub Contribution Activity"
-  />
-</p>
-
----
-
-# 📅 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=PRABANJAN1503&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-    alt="GitHub Contributor Statistics"
-  />
-</p>
-
----
 
 # 📌 GitHub Profile
 
