@@ -268,17 +268,6 @@ Adaptability            ████████░░  80%
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&card_width=500"
-    alt="Most Used Languages"
-  />
-</p>
 ---
 
 # 📫 Connect With Me
