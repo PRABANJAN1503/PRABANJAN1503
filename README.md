@@ -256,10 +256,44 @@ Adaptability            ████████░░  80%
 
 ---
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PRABANJAN1503&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="PRABANJAN1503 GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABANJAN1503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="PRABANJAN1503 Most Used Languages"
+  />
+</p>
+
+---
+
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=PRABANJAN1503&theme=tokyonight&hide_border=true"
+    alt="PRABANJAN1503 GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PRABANJAN1503&theme=tokyo-night&hide_border=true&area=true"
+    alt="PRABANJAN1503 Contribution Graph"
+  />
 </p>
 ---
 
