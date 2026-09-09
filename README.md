@@ -253,13 +253,6 @@ Adaptability            ████████░░  80%
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Engineer;Frontend+Developer;Backend+Developer;Web+Application+Developer;Software+Engineering" />
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
 
 ---
 
