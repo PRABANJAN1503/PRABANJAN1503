@@ -271,38 +271,44 @@ Adaptability            ████████░░  80%
 
 ---
 
-# 💻 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&card_width=500"
+    alt="Most Used Languages"
+  />
 </p>
-
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%A4%9D;Open+to+Learning+%26+Opportunities;Always+Happy+to+Connect!" />
+</p>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Coding_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://www.linkedin.com/in/prabanjan-sivabalan-a9a516308/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Prabanjan%20Sivabalan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:prabanjansivabalan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-prabanjansivabalan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
-📧 **Email:** [prabanjansivabalan@gmail.com](mailto:prabanjansivabalan@gmail.com)
-
-📍 **Tamil Nadu, India**
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+Build+Something+Amazing+%F0%9F%9A%80;Build+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat" />
+
+📧 <b>Email:</b> prabanjansivabalan@gmail.com
+
+<br>
+
+💼 <b>LinkedIn:</b> Prabanjan Sivabalan
+
+<br>
+
+📍 <b>Location:</b> Tamil Nadu, India
+
 </p>
